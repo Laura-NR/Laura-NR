@@ -22,7 +22,7 @@ As a student deeply engrossed in web development, I find joy in the process of l
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/laura-nunez-nr27) to follow my web development journey. I'm always open to discussing new technologies, project ideas, or anything web development related!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/laura-nunez-nr27) to follow my web development journey. I'm always open to discussing new technologies, project ideas, or anything web development related!
 
 
 _Thank you for visiting my GitHub profile!
